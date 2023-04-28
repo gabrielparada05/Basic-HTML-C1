@@ -7,19 +7,15 @@ This website was created as a project for the UofT Coding Bootcamp. As part of t
 The goal was to create a codebase that follows accessibility standards
 and to be optimized for search engines. 
 
-So, I added <alt> attributes in every image, adjusted contrast and changed the typography to meet the accessibility standards.  Also, I overwrite some elements to convert them into semantic HTML elements and get a better structure of the HTML. 
+So, I added <alt> attributes in every image and <title> in the background-image, adjusted contrast and changed the typography to meet the accessibility standards.  Also, I overwrite some elements to convert them into semantic HTML elements and get a better structure of the HTML. 
 
-In this project, 
+The images were resized to 50% to make the website faster. 
 
 ## Getting started
 To access the website, simply type in the website address into your web browser. Once the website loads, you will be presented with the homepage. From there, you can navigate to different sections of the website using the menu bar at the top of the page.
 
-A screenshot is available inside the assets folder. COMPLETARRRRRxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+A screenshot is available inside the assets folder.
 ![alt text](assets/images/screenshot.png)
-
-
-## Usage
-
 
 
 ## Credits

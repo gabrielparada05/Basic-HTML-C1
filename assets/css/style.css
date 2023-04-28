@@ -81,11 +81,6 @@ a {
 }
 
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 
 /*--- side container---*/
 
@@ -147,6 +142,13 @@ a {
     max-width: 150px;
 }
 /*---center containers---*/
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -221,8 +223,3 @@ footer h2 {
     font-size: 20px;
     display: none;
 }
-
-@media  (max-width: 600px) {
-    body, .hero {
-      width: 60%;}
-    }
