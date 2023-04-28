@@ -32,9 +32,11 @@ Please refer to the License in the repo.
 
 ## How to Contribute
 
-You can contribute to this Guide through xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
+You can contribute to this Guide through https://github.com/gabrielparada05/challenge1-UofT.
 
 
 Thank you for visiting my website and supporting my learning journey. 
+
+Gabriel Parada
+gabrielparada05@gmail.com
 //
