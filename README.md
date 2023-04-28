@@ -15,7 +15,7 @@ The images were resized to 50% to make the website faster.
 To access the website, simply type in the website address into your web browser. Once the website loads, you will be presented with the homepage. From there, you can navigate to different sections of the website using the menu bar at the top of the page.
 
 A screenshot is available inside the assets folder.
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/screenshot.jpg)
 
 
 ## Credits
